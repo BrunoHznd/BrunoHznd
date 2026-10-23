@@ -1,20 +1,32 @@
-<div align="center">
+<h1 align="center">Olá! Eu sou o Bruno Oliveira Carvalho 👋</h1>
 
-Olá! Eu sou o Bruno Oliveira Carvalho 👋
+<p align="center">
+  <strong>Desenvolvimento de software · Suporte de TI · Infraestrutura</strong>
+</p>
 
-Desenvolvimento de software · Suporte de TI · Infraestrutura
+<p align="center">
+  Aplicativos, sites e soluções para facilitar o trabalho de pessoas e empresas.
+</p>
 
-Aplicativos, sites e soluções para facilitar o trabalho de pessoas e empresas.
+<p align="center">
+  <a href="https://appclima.com.br">Conheça o App Clima</a>
+</p>
 
-</div>
+<br>
 
-Sobre mim
+<br>
+
+👨‍💻 Sobre mim
 
 Sou tecnólogo em Desenvolvimento de Software Multiplataforma pela FATEC Praia Grande e técnico em Informática pela ETEC Praia Grande.
 
 Tenho experiência em suporte ao usuário, infraestrutura de TI e suporte a sistemas. Também desenvolvo aplicativos e sites com apoio de inteligência artificial, conectando conhecimentos de desenvolvimento às necessidades de quem utiliza a tecnologia no dia a dia.
 
-Tecnologias e ferramentas
+<br>
+
+<br>
+
+⚙️ Tecnologias e ferramentas
 
 Tecnologias presentes nos meus projetos e estudos:
 
@@ -32,17 +44,21 @@ Python e FastAPI
 
 Banco de dados
 
-SQL,SQLITE,MongoDB,PostGreSQL
+SQL e SQLite
 
 Infraestrutura
 
-Linux, Windows,e VPS
+Linux, Windows, Nginx e VPS
 
 Versionamento
 
 Git e GitHub
 
-Projetos em destaque
+<br>
+
+<br>
+
+🚀 Projetos em destaque
 
 ❄️ App Clima
 
@@ -58,6 +74,10 @@ Tecnologias: React Native, Expo e SQLite.
 
 🔗 appclima.com.br
 
+<br>
+
+<br>
+
 🛠️ tiResolve
 
 Projeto desenvolvido em equipe no Laboratório Multiplataforma da FATEC Praia Grande: um sistema de chamados e monitoramento de TI com interfaces web, mobile e desktop.
@@ -70,7 +90,11 @@ Monitoramento de CPU, memória, rede e disco por agente Python.
 
 Tecnologias: React, React Native, Expo, Electron, Python, FastAPI e SQLAlchemy.
 
-Experiência profissional
+<br>
+
+<br>
+
+💼 Experiência profissional
 
 Estagiário de TI — Mar Brasil
 Julho de 2024 a julho de 2026
@@ -83,7 +107,16 @@ Diagnóstico e resolução de problemas de hardware, software e conectividade.
 
 Desenvolvimento de aplicativos e sites com apoio de IA.
 
-Formação
+<br>
 
-🎓 Tecnologia em Desenvolvimento de Software Multiplataforma — FATEC Praia Grande
-🎓 Técnico em Informática — ETEC Praia Grande
+<br>
+
+🎓 Formação
+
+Tecnologia em Desenvolvimento de Software Multiplataforma
+FATEC Praia Grande
+
+<br>
+
+Técnico em Informática
+ETEC Praia Grande
